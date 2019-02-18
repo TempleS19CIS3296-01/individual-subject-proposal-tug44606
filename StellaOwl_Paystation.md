@@ -16,7 +16,7 @@ A
    
 ```
 
-![Use Case Image](StellaOwl_PayStation.png)
+![Use Case Image](DevangAntala_RandomBeans.png)
 
 ## Project Relevance
 
